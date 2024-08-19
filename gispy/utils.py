@@ -2,7 +2,6 @@ import re
 import time
 import random
 import wayback
-import textract
 import numpy as np
 import pandas as pd
 import xml.etree.ElementTree as ET
